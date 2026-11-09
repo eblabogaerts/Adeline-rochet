@@ -9,8 +9,8 @@
    action="https://assets.mailerlite.com/jsonp/1234567/forms/987654321098765432/subscribe"
                                                ^ACCOUNT_ID  ^FORM_ID
    Laat ze leeg om het formulier in demomodus te testen (er wordt dan niets verstuurd). */
-const MAILERLITE_ACCOUNT_ID = '';
-const MAILERLITE_FORM_ID = '';
+const MAILERLITE_ACCOUNT_ID = '2747888';
+const MAILERLITE_FORM_ID = '203588726771680985';
 
 document.documentElement.classList.remove('no-js');
 
